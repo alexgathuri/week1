@@ -5,5 +5,18 @@ h1{ font-family:sans-serif;
     margin:50px;
     padding:50px;
 
+}
+ul{
+    padding:0;
+    margin:0;
+    width:200px;
+    display: block;
+    background-color: grey;
+
+}
+
+
+li hover{
+
 
 }
