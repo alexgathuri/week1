@@ -9,9 +9,10 @@ h1{ font-family:sans-serif;
 ul{
     padding:0px;
     margin:0;
-    width:200px;
+    width:30%;
     display: block;
     background-color: grey;
+    float: left;
     
 
 }
@@ -26,14 +27,23 @@ li a{
     background-color: grey;
     text-decoration: none;
     text-align:center;
-    
+
 
 }
 
-li :hover{
+li a:hover{
 
     background-color: rgb(131, 124, 230)141, 2, 2);
     color:white;
 
+}
+
+
+p{  
+     
+    background-color:rgb(177, 177, 146);
+    width:70%;
+    float:left;
 
 }
+
