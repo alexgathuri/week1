@@ -36,7 +36,7 @@ ul{
 }
 
 
-li a{
+li div{
     padding:20px;
     color: black;
     margin:0;
@@ -51,7 +51,7 @@ li a{
 
 li a:hover{
 
-     color:white;
+     color:grey;
 
 }
 
