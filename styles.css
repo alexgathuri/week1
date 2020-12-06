@@ -9,7 +9,7 @@ h1{ font-family:sans-serif;
 ul{
     padding:0px;
     margin:0;
-    width:30%;
+    width:100%;
     display: block;
     background-color: grey;
     float: left;
@@ -22,7 +22,7 @@ li a{
     padding:20px;
     color: black;
     margin:0;
-    width:300px;
+    
     display: block;
     background-color: grey;
     text-decoration: none;
@@ -39,11 +39,4 @@ li a:hover{
 }
 
 
-p{  
-     
-    background-color:rgb(177, 177, 146);
-    width:70%;
-    float:left;
-
-}
 
